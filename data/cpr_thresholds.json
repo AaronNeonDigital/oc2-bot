@@ -1,0 +1,42 @@
+{
+  "1": {
+    "minCpr": 10,
+    "name": "Mob Mentality / Pet Project"
+  },
+  "2": {
+    "minCpr": 20,
+    "name": "Cash Me If You Can / Best Of The Lot"
+  },
+  "3": {
+    "minCpr": 30,
+    "name": "Smoke And Wing Mirrors / Market Forces"
+  },
+  "4": {
+    "minCpr": 40,
+    "name": "Snow Blind / Stage Fright"
+  },
+  "5": {
+    "minCpr": 50,
+    "name": "Leave No Trace"
+  },
+  "6": {
+    "minCpr": 60,
+    "name": "Honey Trap"
+  },
+  "7": {
+    "minCpr": 70,
+    "name": "Blast From The Past"
+  },
+  "8": {
+    "minCpr": 68,
+    "name": "Break The Bank"
+  },
+  "9": {
+    "minCpr": 90,
+    "name": "???"
+  },
+  "10": {
+    "minCpr": 100,
+    "name": "??"
+  }
+}
