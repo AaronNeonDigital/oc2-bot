@@ -128,7 +128,7 @@ const crimeAnalyzer = {
 
                 // Check each slot
                 crime.slots.forEach(slot => {
-                    if (slot.user_id) {
+                    if (slot.user_id && slot.user.progress !== 100) {
                         // Initialize user entry if needed
                         if (!userProblems[slot.user_id]) {
                             userProblems[slot.user_id] = {
@@ -174,15 +174,13 @@ const crimeAnalyzer = {
         });
 
         // Filter to only problematic users and sort by number of problematic slots
-        const problematicUsers = Object.entries(userProblems)
+        return Object.entries(userProblems)
             .filter(([userId, data]) => data.problematicSlots > 0)
             .map(([userId, data]) => ({
                 userId: userId,
                 ...data
             }))
             .sort((a, b) => b.problematicSlots - a.problematicSlots);
-
-        return problematicUsers;
     }
 };
 
