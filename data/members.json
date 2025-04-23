@@ -1,0 +1,2542 @@
+{
+  "members": [
+    {
+      "id": 12469,
+      "name": "Tygra",
+      "level": 100,
+      "days_in_faction": 2999,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745404503,
+        "relative": "2 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 30264,
+      "name": "TongLung",
+      "level": 100,
+      "days_in_faction": 1181,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745395598,
+        "relative": "4 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 31567,
+      "name": "NaX",
+      "level": 100,
+      "days_in_faction": 1095,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745407325,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 81345,
+      "name": "RedIkon",
+      "level": 100,
+      "days_in_faction": 2130,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745407527,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7212,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 195437,
+      "name": "Backdoor_Betty",
+      "level": 100,
+      "days_in_faction": 1057,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411710,
+        "relative": "1 minute ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Hollaback Girl",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 209070,
+      "name": "Tascon",
+      "level": 100,
+      "days_in_faction": 2306,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411088,
+        "relative": "12 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 750,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 220641,
+      "name": "Twigman",
+      "level": 100,
+      "days_in_faction": 1181,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745409244,
+        "relative": "42 minutes ago"
+      },
+      "status": {
+        "description": "Returning to Torn from China",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 239119,
+      "name": "Veins",
+      "level": 100,
+      "days_in_faction": 1780,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411640,
+        "relative": "2 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 262602,
+      "name": "Dexter_Morgan",
+      "level": 100,
+      "days_in_faction": 1153,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745409334,
+        "relative": "41 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 3900,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 439035,
+      "name": "BullsCry",
+      "level": 100,
+      "days_in_faction": 2758,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745395365,
+        "relative": "4 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 460247,
+      "name": "Hippopotamus",
+      "level": 100,
+      "days_in_faction": 2691,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745407325,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 4800,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 507888,
+      "name": "critch",
+      "level": 100,
+      "days_in_faction": 1852,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411564,
+        "relative": "4 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Big Bollocks",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 512975,
+      "name": "Scuba",
+      "level": 100,
+      "days_in_faction": 2314,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411811,
+        "relative": "0 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Scooby",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 522441,
+      "name": "Jas",
+      "level": 100,
+      "days_in_faction": 1745,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745382644,
+        "relative": "8 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Potato",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 567375,
+      "name": "Luca23",
+      "level": 100,
+      "days_in_faction": 330,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745409434,
+        "relative": "39 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 569589,
+      "name": "Chocobo",
+      "level": 100,
+      "days_in_faction": 941,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411703,
+        "relative": "1 minute ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 583088,
+      "name": "FaRdReDzuaN",
+      "level": 100,
+      "days_in_faction": 1212,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745410899,
+        "relative": "15 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 667086,
+      "name": "ripp3r",
+      "level": 100,
+      "days_in_faction": 1089,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411660,
+        "relative": "2 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 671176,
+      "name": "Punish3r",
+      "level": 100,
+      "days_in_faction": 1974,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745406214,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Pocket Picker",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 842391,
+      "name": "kuber",
+      "level": 100,
+      "days_in_faction": 190,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745399020,
+        "relative": "3 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 871983,
+      "name": "Yourowner",
+      "level": 100,
+      "days_in_faction": 2775,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745406652,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 872103,
+      "name": "Scampi",
+      "level": 100,
+      "days_in_faction": 2979,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411741,
+        "relative": "1 minute ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 895688,
+      "name": "Wicka",
+      "level": 100,
+      "days_in_faction": 904,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411483,
+        "relative": "5 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 927477,
+      "name": "Oh_Dae",
+      "level": 100,
+      "days_in_faction": 1818,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745408175,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 8155,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 972654,
+      "name": "Jacob",
+      "level": 100,
+      "days_in_faction": 2545,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411661,
+        "relative": "2 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 983221,
+      "name": "Nath",
+      "level": 100,
+      "days_in_faction": 81,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411704,
+        "relative": "1 minute ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Radar",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 993345,
+      "name": "ForrestGump",
+      "level": 100,
+      "days_in_faction": 2132,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745410029,
+        "relative": "29 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1010587,
+      "name": "myshoeshurt",
+      "level": 100,
+      "days_in_faction": 2786,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745410484,
+        "relative": "22 minutes ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Japan",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Crimelord",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1014409,
+      "name": "Brad0812",
+      "level": 99,
+      "days_in_faction": 247,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411753,
+        "relative": "1 minute ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Switzerland",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7387,
+        "maximum": 7387
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1022640,
+      "name": "Izzanods",
+      "level": 100,
+      "days_in_faction": 64,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745405765,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 8459,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1034083,
+      "name": "Julle",
+      "level": 100,
+      "days_in_faction": 1976,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745408478,
+        "relative": "55 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1161882,
+      "name": "TheoZ",
+      "level": 100,
+      "days_in_faction": 176,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411493,
+        "relative": "5 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1187574,
+      "name": "S-I-S",
+      "level": 100,
+      "days_in_faction": 1785,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745406379,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Commando",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1265909,
+      "name": "Jamin",
+      "level": 100,
+      "days_in_faction": 2224,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745407608,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Warlord",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1288134,
+      "name": "Browe",
+      "level": 100,
+      "days_in_faction": 2534,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411319,
+        "relative": "8 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7664,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1300884,
+      "name": "Hermoine",
+      "level": 95,
+      "days_in_faction": 155,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745350490,
+        "relative": "17 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 6937,
+        "maximum": 6937
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1307106,
+      "name": "Maybe",
+      "level": 100,
+      "days_in_faction": 1541,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411030,
+        "relative": "13 minutes ago"
+      },
+      "status": {
+        "description": "Returning to Torn from UAE",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Enigma",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1317237,
+      "name": "Touch",
+      "level": 100,
+      "days_in_faction": 2489,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745410675,
+        "relative": "19 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Thug Nasty",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1339512,
+      "name": "Siguror",
+      "level": 100,
+      "days_in_faction": 1439,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745410355,
+        "relative": "24 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 8250,
+        "maximum": 8250
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1352251,
+      "name": "ChristmasBazaar",
+      "level": 100,
+      "days_in_faction": 2601,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745404361,
+        "relative": "2 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Yuletide Executioner",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1360035,
+      "name": "Untouchable",
+      "level": 100,
+      "days_in_faction": 1684,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745389034,
+        "relative": "6 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Digital Overlord",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1381769,
+      "name": "Dexter",
+      "level": 100,
+      "days_in_faction": 1733,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745409177,
+        "relative": "44 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1414372,
+      "name": "Fortytwo",
+      "level": 100,
+      "days_in_faction": 1100,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745407367,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Argentina",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1420465,
+      "name": "Mujera",
+      "level": 100,
+      "days_in_faction": 2470,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745372742,
+        "relative": "10 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Survivor",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1441750,
+      "name": "_SCOFIELD_",
+      "level": 100,
+      "days_in_faction": 424,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411670,
+        "relative": "2 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Tactical Unit",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1513594,
+      "name": "Legend",
+      "level": 100,
+      "days_in_faction": 2072,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745408331,
+        "relative": "58 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1525609,
+      "name": "RefleX_",
+      "level": 100,
+      "days_in_faction": 2537,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411413,
+        "relative": "6 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 2096,
+        "maximum": 9525
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1534628,
+      "name": "Hydrogen",
+      "level": 100,
+      "days_in_faction": 1213,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411704,
+        "relative": "1 minute ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9375,
+        "maximum": 9375
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1554256,
+      "name": "DoinYaMom",
+      "level": 100,
+      "days_in_faction": 2669,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411646,
+        "relative": "2 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Pin Cushion",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1580562,
+      "name": "LDP",
+      "level": 100,
+      "days_in_faction": 943,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745407735,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Returning to Torn from China",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 8215,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Operator",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1601768,
+      "name": "Witherite",
+      "level": 100,
+      "days_in_faction": 2754,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745374476,
+        "relative": "10 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 750,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Warlord",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1616859,
+      "name": "FreddyPrice",
+      "level": 100,
+      "days_in_faction": 57,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411769,
+        "relative": "0 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1626270,
+      "name": "mortisult",
+      "level": 100,
+      "days_in_faction": 1928,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411769,
+        "relative": "0 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Techy Tech",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1629982,
+      "name": "MadMatt",
+      "level": 100,
+      "days_in_faction": 64,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745379638,
+        "relative": "8 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1697426,
+      "name": "BrewDog",
+      "level": 100,
+      "days_in_faction": 2460,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745388365,
+        "relative": "6 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1725903,
+      "name": "Toxic",
+      "level": 100,
+      "days_in_faction": 583,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745390067,
+        "relative": "6 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1775106,
+      "name": "Dracin",
+      "level": 100,
+      "days_in_faction": 1076,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745406895,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1785484,
+      "name": "Tiffinity",
+      "level": 100,
+      "days_in_faction": 676,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411154,
+        "relative": "11 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Unicorn",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1811936,
+      "name": "madbuns",
+      "level": 100,
+      "days_in_faction": 720,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745380944,
+        "relative": "8 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1823290,
+      "name": "Frost-",
+      "level": 100,
+      "days_in_faction": 248,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411568,
+        "relative": "4 minutes ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Switzerland",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 5401,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1864006,
+      "name": "Lothaar",
+      "level": 100,
+      "days_in_faction": 1727,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411566,
+        "relative": "4 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 5700,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1867016,
+      "name": "VitaGreta",
+      "level": 100,
+      "days_in_faction": 976,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411367,
+        "relative": "7 minutes ago"
+      },
+      "status": {
+        "description": "Traveling to Argentina",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Ghost",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1868288,
+      "name": "Cartis",
+      "level": 100,
+      "days_in_faction": 3057,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411036,
+        "relative": "13 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Sex Kitten",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1878832,
+      "name": "Afterlife",
+      "level": 100,
+      "days_in_faction": 309,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745387760,
+        "relative": "6 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1879587,
+      "name": "Proxima",
+      "level": 100,
+      "days_in_faction": 2336,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745398581,
+        "relative": "3 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Consigliere",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1884314,
+      "name": "MeanMike",
+      "level": 100,
+      "days_in_faction": 3122,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745385927,
+        "relative": "7 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Leader",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1888994,
+      "name": "Momo",
+      "level": 100,
+      "days_in_faction": 1533,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411437,
+        "relative": "6 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1899531,
+      "name": "zaje",
+      "level": 100,
+      "days_in_faction": 2922,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745312361,
+        "relative": "1 day ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1915023,
+      "name": "CrazedOne",
+      "level": 100,
+      "days_in_faction": 3095,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745379720,
+        "relative": "8 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Co-leader",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1918071,
+      "name": "D-V",
+      "level": 100,
+      "days_in_faction": 2816,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745382427,
+        "relative": "8 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1921594,
+      "name": "Norm",
+      "level": 100,
+      "days_in_faction": 2889,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745389799,
+        "relative": "6 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1965595,
+      "name": "Silk",
+      "level": 100,
+      "days_in_faction": 1016,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745392138,
+        "relative": "5 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1982831,
+      "name": "VinnyCarwash",
+      "level": 100,
+      "days_in_faction": 3121,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745409850,
+        "relative": "32 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1994581,
+      "name": "Whiskey_Jack",
+      "level": 100,
+      "days_in_faction": 1875,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411488,
+        "relative": "5 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "No one",
+      "position": "Crimelord",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1995840,
+      "name": "Prophet_Jonas",
+      "level": 100,
+      "days_in_faction": 716,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745393738,
+        "relative": "5 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 1998312,
+      "name": "Carini",
+      "level": 100,
+      "days_in_faction": 3092,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745410623,
+        "relative": "19 minutes ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Cayman Islands",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2003190,
+      "name": "kittenaround",
+      "level": 100,
+      "days_in_faction": 2517,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411181,
+        "relative": "10 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 8141,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2025939,
+      "name": "Wadertx",
+      "level": 100,
+      "days_in_faction": 2210,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745407515,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Comp Committee",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2036464,
+      "name": "Halfwit99",
+      "level": 100,
+      "days_in_faction": 212,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745396229,
+        "relative": "4 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 3450,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2037780,
+      "name": "Dr_V",
+      "level": 100,
+      "days_in_faction": 262,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745406006,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Switzerland",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2039424,
+      "name": "windy",
+      "level": 100,
+      "days_in_faction": 857,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745396033,
+        "relative": "4 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Empress",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2042332,
+      "name": "jjinn",
+      "level": 100,
+      "days_in_faction": 2472,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745409703,
+        "relative": "35 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2090073,
+      "name": "undo",
+      "level": 100,
+      "days_in_faction": 198,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745402637,
+        "relative": "2 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2100546,
+      "name": "Legaci",
+      "level": 100,
+      "days_in_faction": 421,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411176,
+        "relative": "10 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Digital Maestro",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2125774,
+      "name": "Invert",
+      "level": 100,
+      "days_in_faction": 169,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411723,
+        "relative": "1 minute ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2235785,
+      "name": "Lewwer",
+      "level": 100,
+      "days_in_faction": 71,
+      "last_action": {
+        "status": "Online",
+        "timestamp": 1745411780,
+        "relative": "0 minutes ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Mexico",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 10642,
+        "maximum": 10642
+      },
+      "revive_setting": "Unknown",
+      "position": "Crimelord",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2236278,
+      "name": "Nyx",
+      "level": 98,
+      "days_in_faction": 148,
+      "last_action": {
+        "status": "Idle",
+        "timestamp": 1745411654,
+        "relative": "2 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7275,
+        "maximum": 7275
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2299647,
+      "name": "Sass",
+      "level": 100,
+      "days_in_faction": 233,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745407659,
+        "relative": "1 hour ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": true,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2322328,
+      "name": "Ariston",
+      "level": 100,
+      "days_in_faction": 672,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745404481,
+        "relative": "2 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 1,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2331077,
+      "name": "wilees1978",
+      "level": 100,
+      "days_in_faction": 330,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745410852,
+        "relative": "16 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2361494,
+      "name": "RobberHood",
+      "level": 100,
+      "days_in_faction": 347,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745402892,
+        "relative": "2 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2549859,
+      "name": "Defectus",
+      "level": 100,
+      "days_in_faction": 1343,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745411473,
+        "relative": "5 minutes ago"
+      },
+      "status": {
+        "description": "Returning to Torn from Switzerland",
+        "details": null,
+        "state": "Traveling",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Broker",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2619860,
+      "name": "skmoonlight",
+      "level": 100,
+      "days_in_faction": 540,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745395594,
+        "relative": "4 hours ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 9000,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    },
+    {
+      "id": 2660552,
+      "name": "TDup",
+      "level": 100,
+      "days_in_faction": 78,
+      "last_action": {
+        "status": "Offline",
+        "timestamp": 1745410155,
+        "relative": "27 minutes ago"
+      },
+      "status": {
+        "description": "Okay",
+        "details": null,
+        "state": "Okay",
+        "until": null
+      },
+      "life": {
+        "current": 7500,
+        "maximum": 7500
+      },
+      "revive_setting": "Unknown",
+      "position": "Soldier",
+      "is_revivable": false,
+      "is_on_wall": false,
+      "is_in_oc": true,
+      "has_early_discharge": false
+    }
+  ]
+}

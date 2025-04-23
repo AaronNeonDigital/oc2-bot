@@ -44,7 +44,7 @@ module.exports = async (interaction) => {
             const moreText = user.crimes.length > 3 ? `... and ${user.crimes.length - 3} more crime(s)` : '';
 
             embed.addFields({
-                name: `User ID: ${user.userId} (${user.problematicSlots}/${user.totalSlots} slots)`,
+                name: `User ${user.username} [${user.userId}] (${user.problematicSlots}/${user.totalSlots} slots)`,
                 value: `${problemPositions}\n\n**Issues:**\n${crimeDetails}${moreText ? '\n' + moreText : ''}`
             });
         });

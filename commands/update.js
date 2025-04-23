@@ -8,6 +8,7 @@ module.exports = async (interaction) => {
     await interaction.deferReply();
 
     try {
+        await api.updateMembersData();
         await api.updateCrimeData();
         await interaction.editReply('✅ Crime data updated successfully from Torn API!');
     } catch (error) {

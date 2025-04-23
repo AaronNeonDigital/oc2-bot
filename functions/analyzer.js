@@ -119,6 +119,7 @@ const crimeAnalyzer = {
     // Get most problematic users (those participating in multiple crimes with low CPR)
     getProblematicUsers: function() {
         const data = db.getCrimeData();
+        const members = db.getMemberData();
         const userProblems = {};
 
         // Go through each crime
@@ -176,10 +177,14 @@ const crimeAnalyzer = {
         // Filter to only problematic users and sort by number of problematic slots
         return Object.entries(userProblems)
             .filter(([userId, data]) => data.problematicSlots > 0)
-            .map(([userId, data]) => ({
-                userId: userId,
-                ...data
-            }))
+            .map(([userId, data]) => {
+                const member = members.members.find(member => parseInt(member.id) === parseInt(userId));
+                return {
+                    username: member ? member.name : 'unknown',
+                    userId: userId,
+                    ...data
+                };
+            })
             .sort((a, b) => b.problematicSlots - a.problematicSlots);
     }
 };

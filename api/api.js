@@ -30,7 +30,33 @@ const api = {
             console.error('Failed to update crime data:', error);
             throw error;
         }
-    }
+    },
+
+    fetchFactionMembersData: async function() {
+        try {
+            const apiKey = config.getNextApiKey();
+            const response = await axios.get(`${config.apiBaseUrl}/faction/members`, {
+                headers: {
+                    'Authorization': `ApiKey ${apiKey}`
+                }
+            });
+
+            return response.data;
+        } catch (error) {
+            console.error('API Error:', error.response ? error.response.data : error.message);
+            throw error;
+        }
+    },
+    updateMembersData: async function() {
+        try {
+            const data = await this.fetchFactionMembersData();
+            db.saveMembersData(data);
+            return data;
+        } catch (error) {
+            console.error('Failed to update members data:', error);
+            throw error;
+        }
+    },
 };
 
 module.exports = api;

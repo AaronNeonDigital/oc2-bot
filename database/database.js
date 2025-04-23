@@ -9,12 +9,22 @@ if (!fs.existsSync(config.dataPath)) {
 
 const db = {
     crimeData: null,
+    membersData: null,
 
     // Save crime data to a JSON file
     saveCrimeData: function(data) {
         this.crimeData = data;
         fs.writeFileSync(
             path.join(config.dataPath, 'crimes.json'),
+            JSON.stringify(data, null, 2)
+        );
+        return data;
+    },
+
+    saveMembersData: function(data) {
+        this.membersData = data;
+        fs.writeFileSync(
+            path.join(config.dataPath, 'members.json'),
             JSON.stringify(data, null, 2)
         );
         return data;
@@ -38,12 +48,36 @@ const db = {
         return this.crimeData;
     },
 
+    loadMembersData: function() {
+        try {
+            if (fs.existsSync(path.join(config.dataPath, 'members.json'))) {
+                this.membersData = JSON.parse(
+                    fs.readFileSync(path.join(config.dataPath, 'members.json'), 'utf8')
+                );
+            } else {
+                this.membersData = { members: [] };
+                this.saveMembersData(this.membersData);
+            }
+        } catch (error) {
+            console.error('Error loading members data:', error);
+            this.membersData = { members: [] };
+        }
+        return this.membersData;
+    },
+
     // Get crime data
     getCrimeData: function() {
         if (!this.crimeData) {
             return this.loadCrimeData();
         }
         return this.crimeData;
+    },
+
+    getMemberData: function() {
+        if (!this.membersData) {
+            return this.loadMembersData();
+        }
+        return this.membersData;
     },
 
     // Save custom CPR thresholds
